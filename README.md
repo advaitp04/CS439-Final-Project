@@ -6,5 +6,3 @@ The core steps of this project include:
 * Exploratory data analysis (EDA)
 * Feature engineering
 * Model building & training
-
-Repository will be private until the project has been submitted.
